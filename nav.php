@@ -1,0 +1,2 @@
+phpinfo
+php_uname
